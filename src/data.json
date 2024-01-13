@@ -1,0 +1,123 @@
+[
+	{
+		"id": 1,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAU",
+		"title": "Disease 1",
+		"content": "Content for Disease 1"
+	},
+	{
+		"id": 2,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAU",
+		"title": "Disease 2",
+		"content": "Content for Disease 2"
+	},
+	{
+		"id": 3,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAU",
+		"title": "Disease 3",
+		"content": "Content for Disease 3"
+	},
+	{
+		"id": 4,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAU",
+		"title": "Disease 4",
+		"content": "Content for Disease 4"
+	},
+	{
+		"id": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAU",
+		"title": "Disease 5",
+		"content": "Content for Disease 5"
+	},
+	{
+		"id": 6,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAU",
+		"title": "Disease 6",
+		"content": "Content for Disease 6"
+	},
+	{
+		"id": 7,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAU",
+		"title": "Disease 7",
+		"content": "Content for Disease 7"
+	},
+  {
+    "id": 8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAU",
+    "title": "Disease 8",
+    "content": "Content for Disease 8"
+  },{
+    "id": 9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAU",
+    "title": "Disease 9",
+    "content": "Content for Disease 9"
+  },
+  {
+    "id": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 10",
+    "content": "Content for Disease 10"
+  },
+  {
+    "id": 11,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 11",
+    "content": "Content for Disease 11"
+  },{
+    "id": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 12",
+    "content": "Content for Disease 12"
+
+  },{
+    "id": 13,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 13",
+    "content": "Content for Disease 13"
+  },{
+    "id": 14,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 14",
+    "content": "Content for Disease 14"
+
+  },{
+    "id": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 15",
+    "content": "Content for Disease 15"
+  },
+  {
+    "id": 16,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 16",
+    "content": "Content for Disease 16"
+
+
+  },{
+    "id": 17,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 17",
+    "content": "Content for Disease 17"
+  },{
+    "id": 18,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUeg",
+    "title": "Disease 18",
+    "content": "Content for Disease 18"
+  },{
+    "id": 19,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 19",
+    "content": "Content for Disease 19"
+  },{
+    "id": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 20",
+    "content": "Content for Disease 20"
+  },
+  {
+    "id": 21,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYSalAKQmeBSVT_5bDrH8N0tyYfvi0Vypjw&usqp=CAUg",
+    "title": "Disease 21",
+    "content": "Content for Disease 21"
+  }
+]
